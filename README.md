@@ -31,3 +31,9 @@ Javier Snider
 
 ## Materia
 Organización Empresarial - UTN
+
+## Uso de inteligencia artificial
+
+Se utilizó ChatGPT como herramienta de apoyo para la elaboración del modelo BPMN y como guía para la utilización de GitHub durante el desarrollo del Trabajo Práctico Integrador.
+
+La información y los resultados se revisaron en relación con la consigna y los contenidos de la materia. Las actividades realizadas en GitHub se documentan mediante evidencias reales.
