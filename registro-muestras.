@@ -1,0 +1,25 @@
+# Registro de muestras
+
+## Descripción
+Esta funcionalidad forma parte del sistema propuesto para la gestión de muestras y resultados de laboratorio del INTA Bordenave.
+
+## Historia de usuario
+Como personal de laboratorio, quiero registrar las muestras recibidas para poder identificarlas y realizar el seguimiento de los análisis solicitados.
+
+## Datos del registro
+•⁠  ⁠Identificador único de la muestra.
+•⁠  ⁠Fecha de ingreso.
+•⁠  ⁠Identificación del solicitante.
+•⁠  ⁠Tipo de muestra.
+•⁠  ⁠Análisis solicitado.
+•⁠  ⁠Laboratorio responsable.
+•⁠  ⁠Estado de la muestra.
+
+## Criterios de aceptación
+1.⁠ ⁠El sistema debe permitir registrar una muestra con los datos obligatorios.
+2.⁠ ⁠Cada muestra debe contar con un identificador único.
+3.⁠ ⁠El sistema debe permitir consultar la información registrada.
+4.⁠ ⁠El sistema debe informar cuando falten datos obligatorios.
+
+## Estado
+Funcionalidad propuesta y documentada. Pendiente de implementación.
