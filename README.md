@@ -37,3 +37,11 @@ Organización Empresarial - UTN
 Se utilizó ChatGPT como herramienta de apoyo para la elaboración del modelo BPMN y como guía para la utilización de GitHub durante el desarrollo del Trabajo Práctico Integrador.
 
 La información y los resultados se revisaron en relación con la consigna y los contenidos de la materia. Las actividades realizadas en GitHub se documentan mediante evidencias reales.
+
+Para realizar algunas partes del trabajo utilicé ChatGPT como herramienta de consulta. Principalmente me sirvió para entender cómo organizar el diagrama BPMN y cómo utilizar GitHub.
+
+En el caso del BPMN, consulté cómo representar las actividades que se realizan desde que ingresa una muestra al laboratorio hasta que se obtiene el resultado. Después adapté esa información al proyecto del INTA Bordenave.
+
+También realicé consultas sobre la creación de ramas, los Pull Request y la organización de tareas mediante GitHub Projects.
+
+Las respuestas se utilizaron como orientación para desarrollar el trabajo. A partir de las correcciones del profesor, revisé qué partes necesitaban mejorarse, especialmente la representación del proceso BPMN y la documentación de GitHub.
